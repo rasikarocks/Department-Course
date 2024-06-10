@@ -1,0 +1,4 @@
+Q. What is diff between JDK & JRE ?
+Q. How JAVA works internally ?
+
+Q. Who will convert Source code into Machine Code ?
