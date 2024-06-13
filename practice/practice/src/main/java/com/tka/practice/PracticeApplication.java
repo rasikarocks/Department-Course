@@ -1,13 +1,13 @@
-package com.example.Learning.Marathon;
+package com.tka.practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearningMarathonApplication {
+public class PracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearningMarathonApplication.class, args);
+		SpringApplication.run(PracticeApplication.class, args);
 	}
 
 }
